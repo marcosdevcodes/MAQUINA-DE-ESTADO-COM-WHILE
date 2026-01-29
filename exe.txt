@@ -1,3 +1,13 @@
+Resumo do Fluxo de Trabalho (o que você usará no dia a dia)
+Sempre que fizer novas alterações, o comando rápido é:
+
+git add .
+git commit -m "nova alteracao"
+git push
+git push origin main
+
+
+
 EXPLICAÇÃO DESSA FUNÇÃO:
 
 function processadorDeTarefas(tarefas, prioridade) {
